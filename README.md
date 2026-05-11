@@ -34,6 +34,9 @@ The project demonstrates how machine learning and NLP can support healthcare ris
 - Clinical recommendation generation
 
 ---
+## For live run go to:
+https://healthcare-readmission-xgboost-spg4bqhqnmlxjiemckkmlg.streamlit.app/
+
 
 # Technologies Used
 
